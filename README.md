@@ -1,7 +1,7 @@
 
 [![bob](https://thumbs.gfycat.com/BleakHarmfulCopperbutterfly-size_restricted.gif "bob")](https://thumbs.gfycat.com/BleakHarmfulCopperbutterfly-size_restricted.gif "bob")
 
-Hey everybody , I am a Jr. Software Developer from Turkey, İstanbul ! 
+Hey everybody , I am a Software Developer from Turkey, İstanbul ! 
 <br />
 Currently I am working as a full stack developer with laravel, HTML, CSS and JS with its frameworks. 
 
