@@ -1,5 +1,5 @@
 
-[![bob](https://thumbs.gfycat.com/BleakHarmfulCopperbutterfly-size_restricted.gif "bob")](https://thumbs.gfycat.com/BleakHarmfulCopperbutterfly-size_restricted.gif "bob")
+[![bob](https://media.giphy.com/media/4BnnmOr00GGsw/giphy-downsized-large.gif "bob")](https://media.giphy.com/media/4BnnmOr00GGsw/giphy-downsized-large.gif "bob")
 
 Hey everybody , I am a Software Developer from Turkey, İstanbul ! 
 <br />
